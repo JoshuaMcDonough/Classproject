@@ -6,6 +6,15 @@ html {
 }
 
 
+ul {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	display: inline;
+	}
+
+
+
 body {
   font-family: Georgia, serif;
   font-size: 100%;
