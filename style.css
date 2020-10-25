@@ -21,9 +21,15 @@ a {  text-decoration: none;
 }
 
 /* header styles */
+
+#headerbaground{
+  background:url("https://ridermagazine.com/wp-content/uploads/2020/04/MSF-logo.jpg")
+}
+
+
+
 header {
   color: white;  
-  background:  url="https://ridermagazine.com/wp-content/uploads/2020/04/MSF-logo.jpg" no-repeat center center;
   background-size: cover; 
   text-align: center;
   height: 15em;
